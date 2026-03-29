@@ -3,7 +3,7 @@ title: Agri Assist
 emoji: 🌾
 colorFrom: green
 colorTo: blue
-sdk: gradio
+sdk: streamlit
 python_version: '3.10'
 app_file: app.py
 pinned: false
