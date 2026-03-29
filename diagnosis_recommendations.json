@@ -1,0 +1,802 @@
+{
+  "FALL ARMYWORM": {
+    "diagnosis": "FALL ARMYWORM",
+    "crop": "MAIZE",
+    "current_treatment": "Fall Army worms  - MAIZE, Practice regular farm sanitation eg weeding. Spray with Bypel at 15gm in 15 litres of water using Knapsack sprayer at early the morning or late in the evening. Alternate the chemical with Warrior Super at two weeks intervals for effective control of the insects. Monitor the farm regularly to inform you decision of the insects control.",
+    "prevention": "Fall Army worms  - MAIZE,practice regular farm sanitation eg weeding.  Plant early to avoid infestation by the insects. Intensive Spraying two weeks after sowing is the best practice to control the insects. Practice crop rotation eg ,groundnut. Apply nitrogenous fertlizer early in the first week after sowing for vigorous growth. Intercrop with cassava to encourage biological control of the insects. Gather all crop debris and burn after harvesting. Ask for the history of the land before you cultivate maize on it. Always buy seeds from certified sources before you sow. Monitor problem early to inform decision of the early control of the insects.",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring;Fertilizer;Other",
+    "validity": "ACCEPT Effective"
+  },
+  "MAIZE WEEVIL": {
+    "diagnosis": "MAIZE WEEVIL",
+    "crop": "MAIZE",
+    "current_treatment": "-Keep the farm and surroundings clean clean \n-Avoid late planting or off-season planting and avoid planting new crop near infested fields\n-\u00c3\u00bfUse a mixture of maize varieties when planting; varieties showing resistance/tolerance, short duration or increased leaf toughness.",
+    "prevention": "-Monitor 10 consecutive plants in 10 locations of the field\n-\u00c3\u00bfLook for creamy/grey egg masses covered in silk located on the underside or top of the leaves and on the stems\n-\u00c3\u00bfLook for light green/dark brown caterpillars with longitudinal .",
+    "recommendation_type": "Biological;Cultural;Insecticide/acaricide;Monitoring;Fertilizer",
+    "validity": "ACCEPT Effective"
+  },
+  "FUSARIUM WILT": {
+    "diagnosis": "FUSARIUM WILT",
+    "crop": "TOMATO",
+    "current_treatment": "Fusarium wilt of tomatoes - Tomatoes \n-\u00c3\u00bfRogue out and destroy plants that show early symptoms of the disease and destroy by burning.",
+    "prevention": "Fusarium wilt of tomatoes - Tomatoes \n-Extract seeds from healthy fruits - Certified seeds from recognised institution or MoFA.\nAvoid planting on land with history of wilt disease\n-\u00c3\u00bfRotate nursery site each season and maintain good drainage\n-\u00c3\u00bfDestroy plant debris immediately after harvest by burning\n-\u00c3\u00bfPractise long crop rotation - 6 years with non-solanaceous plants (e.g. cereals and grains- maize, millet) after every 3 seasons",
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "CASSAVA MOSAIC VIRUS": {
+    "diagnosis": "CASSAVA MOSAIC VIRUS",
+    "crop": "CASSAVA",
+    "current_treatment": "Plants improved varieties like abasafitaa etc; Do not use affected cutting for planting",
+    "prevention": NaN,
+    "recommendation_type": "Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "DAMPING OFF": {
+    "diagnosis": "DAMPING OFF",
+    "crop": "TOMATO",
+    "current_treatment": "Use certified Tomato seed; Practise crop rotation; Practice Farm hygiene; Use Shavit F",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "WHITEFLIES": {
+    "diagnosis": "WHITEFLIES",
+    "crop": "CASSAVA",
+    "current_treatment": "Spray Cypadem 43.6% EC at 50mls/16lts of water; Rotate cassava with maize for 3 years",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "BACTERIAL WILT": {
+    "diagnosis": "BACTERIAL WILT",
+    "crop": "TOMATO",
+    "current_treatment": "Use cultivars resistance to bacterial wilt.Avoid the cultivation of host plant eg.potato ,tobacco and egg plants on the field and around.Avoid planting tomato on infested fields.Practise crop rotation with nonsusceptiple crops if you need to cutivate the field.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "CATERPILLAR": {
+    "diagnosis": "CATERPILLAR",
+    "crop": "MAIZE",
+    "current_treatment": "Apply Lamda at 40ml/ 15 litres of water.",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": "REJECT no recommendation"
+  },
+  "COCOA STEM BORER": {
+    "diagnosis": "COCOA STEM BORER",
+    "crop": "MAIZE",
+    "current_treatment": "Cocoa stem borers - COCOA \n-\u00c3\u00bfPlug bore holes with a stick to stop adult emerging\n-\u00c3\u00bfRemove and burn all heavily infested branches. Copice trees with higher infestation and cut trees with infestation low in their stem. If holes extend into the roots Remove roots that have holes in them as well.",
+    "prevention": "Cocoa stem borers - COCOA\n-\u00c3\u00bfSelect and use only borer-free seedlings and young plants for planting\n-\u00c3\u00bfUse none hosts plants  for fruit and shade trees when establishing cocoa fields. \n-\u00c3\u00bfUproot and completely destroy damaged trees which serve as diapausing sites\n-\u00c3\u00bfMonitoring should be carried out throughout the year on aweekly basis \n-\u00c3\u00bfInspect tree stems for entry holes and check for frass at the base of the tree or gum oozing out of the bore holes. Also look for discolouration on stems and shoots \n-\u00c3\u00bfIf in doubt, plants showing discolouration should be cut open to observe a white ?larva? with a brown head and tunnels in the stem or branches\n-\u00c3\u00bfWhen any bore holes are observed carry out control measures",
+    "recommendation_type": "Cultural",
+    "validity": NaN
+  },
+  "APHID": {
+    "diagnosis": "APHID",
+    "crop": "CASSAVA",
+    "current_treatment": "Insecticides like Acetastar, cydim super and cymethoate super can be use at a rate of 50mls/knapsack to control the insects.; Use of soap solution (Alata soap) to control the aphids is also recommended.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "CASSAVA MEALYBUG": {
+    "diagnosis": "CASSAVA MEALYBUG",
+    "crop": "CASSAVA",
+    "current_treatment": "Good farm sanitation; Spray with Acetastar at a rate of 50mls/16lts of water",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "BACTERIAL SPOT": {
+    "diagnosis": "BACTERIAL SPOT",
+    "crop": "TOMATO",
+    "current_treatment": "Remove affected plants from the farm; Crop rotation with garden eggs for 2years; Resistant/Tolerant varieties should be planted",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Resistant Varieties",
+    "validity": "ACCEPT Effective"
+  },
+  "SOFT ROT": {
+    "diagnosis": "SOFT ROT",
+    "crop": "TOMATO",
+    "current_treatment": "Practice crop rotation and apply NPK 15 15 15 at a rate of 20g/stand; You can also apply poultry manure.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Partially effective"
+  },
+  "CASSAVA ROOT ROT": {
+    "diagnosis": "CASSAVA ROOT ROT",
+    "crop": "CASSAVA",
+    "current_treatment": "Adopt crop rotation; Monitor the problem and acquire resistant varities if you want to use the same piece of land; Do not use any insecticide since the cause of the problem is not an insect.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Resistant Varieties;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "BLOSSOM END ROT": {
+    "diagnosis": "BLOSSOM END ROT",
+    "crop": "TOMATO",
+    "current_treatment": "Blossom End Rot - TOMATOES Remove affected fruits to avoid secondary infection. Spray entire plants with Technokel Calcium @40 mls /15litre knapsack. Observe PHI of 7 days.",
+    "prevention": "Blossom End Rot  - TOMATOES  Avoid excessive application of nitrogen fertiliser. Mulch  ridges or beds .Apply sufficient amount of water.",
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "LEAF SPOT": {
+    "diagnosis": "LEAF SPOT",
+    "crop": "TOMATO",
+    "current_treatment": "Crop rotation; Field sanitation and use of resistant varieties; Spray Carbendazim at a rate of 30cc to 15 lit of water; Top cop is also recommended to spray at fortnight interval",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Fungicide",
+    "validity": "ACCEPT Effective"
+  },
+  "DROUGHT/WATER STRESS": {
+    "diagnosis": "DROUGHT/WATER STRESS",
+    "crop": "TOMATO",
+    "current_treatment": "Use stress resistant variety. Practice irrigation. Practice crop rotation.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "REJECT Not effective"
+  },
+  "NUTRIENT DEFICIENCY": {
+    "diagnosis": "NUTRIENT DEFICIENCY",
+    "crop": "TOMATO",
+    "current_treatment": "Practice farm Sanitation; Use Best Fertilizer at one tin tomato full to 15 L of water",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": NaN
+  },
+  "MAIZE STEM BORER": {
+    "diagnosis": "MAIZE STEM BORER",
+    "crop": "MAIZE",
+    "current_treatment": "Control weeds properly. \r\nspray lambda at 30ml/15L of water into sides and centtral whorl of plant.\r\n Destroy all stubbles after harvest before next planting",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "ANTHRACNOSE": {
+    "diagnosis": "ANTHRACNOSE",
+    "crop": "TOMATO",
+    "current_treatment": "For Antracnose on TOMATO, Remove all diseased plants and destroy",
+    "prevention": "For Antracnose on TOMATO, Stake  and  mulching   Crop rotation with non solanaceau crops Spray using mancozeb at100g/15 l of water",
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Partially effective"
+  },
+  "BORERS": {
+    "diagnosis": "BORERS",
+    "crop": "TOMATO",
+    "current_treatment": "Manually collect and destroy affected fruits",
+    "prevention": "Spray Bypel at 20g in 15 l of water every 2 weeks after transplanting.Avoid excessive use of nitrogen fertiliser",
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": NaN
+  },
+  "AFLATOXIN": {
+    "diagnosis": "AFLATOXIN",
+    "crop": "MAIZE",
+    "current_treatment": "For Mould on MAIZE, Shell immediately, sort and discard affected grains.Do not feed to animals.",
+    "prevention": "For Mould on MAIZE, Harvest the maize soon after ripening when all leaves are dry and cobs turned down. Store in well ventilated place",
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "SPIDER MITES": {
+    "diagnosis": "SPIDER MITES",
+    "crop": "TOMATO",
+    "current_treatment": "Tomato spider mite     Spray with local soap at 150g in 15L of water.",
+    "prevention": "Tomato spider mite       Do not grow tomato after host plants like Peppers. Okro  etc    Apply Sulphur 80WP  at 50g in l5l of water at early detection.",
+    "recommendation_type": "Cultural;Resistant Varieties;Insecticide/acaricide",
+    "validity": "ACCEPT CAUTION, local Knowledge"
+  },
+  "LEAF CURL VIRUS": {
+    "diagnosis": "LEAF CURL VIRUS",
+    "crop": "TOMATO",
+    "current_treatment": "LEAF CURL - TOMATOES\nImidacloprid eg. Punto should be sprayed on the entire plant and below the leaves; eggs and flies are often found below the leaves. Spray every 14-21 days and rotate on a monthly basis with Abamectin eg. Abamet at 2 0-40 ml/16 litres of water and Imidacloprid  eg.Punto at (20  - 30 )mls in 16 Litres of water so that the whiteflies do not build-up resistance to chemicals.Re - entry interval  for both pesticides is 24 hours and pre- harvest interval is 3  days.",
+    "prevention": "LEAF CURL - TOMATOES\nCultural control: Fields should be inspected daily for the presence of whiteflies in all crops, not just tomato plants as the whitefly may have passed the virus onto another crop.Plant maize around the  field to reduce the ability of the whiteflies to reach the crop.\nWater with any recommended  compound  fertilizer  to reduce  stress.",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "EARLY BLIGHT": {
+    "diagnosis": "EARLY BLIGHT",
+    "crop": "TOMATO",
+    "current_treatment": "Early  Blight - TOMATOES \n-\u00c3\u00bfRemove and burn infected plant detected early\n-\u00c3\u00bfCarry diseased materials to be destroyed away in a closed container to prevent spread of the disease\n- Apply Mancozeb  at a rate of 24-32g/15l knapsack. Apply at 10 days interval.",
+    "prevention": "Early  Blight - TOMATOES \n-\u00c3\u00bfUse disease-free or certified seed for planting\n-\u00c3\u00bfRotate tomato with  maize or legumes  every two seasons. Observe good agricultural practices to prevent the spread of the disease\n-\u00c3\u00bfDisinfect hands and tools with detergent  after working on the infected plants\n-\u00c3\u00bfPractice staking and mulching to prevent the fruit from touching the soil and to improve aeration \n-\u00c3\u00bfRemove and destroy crop debris after harvest and solanaceous weeds that may act as hosts\n-\u00c3\u00bfPromote good air circulation in the field by proper spacing (e.g. 70-80cm between rows and 40-60cm between plants)\n-\u00c3\u00bfThis disease is also found on potato, pepper and egg plant\n-\u00c3\u00bfRegularly monitor fields for presence of lesions with chlorotic margins on the leaves\n-\u00c3\u00bfDark brown to black circular or angular spots on leaflets with concentric zones\n-\u00c3\u00bfBlack or brown sunken lesions on fruits\n-\u00c3\u00bfWhen the first symptoms appear implement control measures or next season consider applying a protectant fungicide to protect against the disease. Use recommended fungicides to manage late blight",
+    "recommendation_type": "Cultural;Fungicide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "ABIOTIC": {
+    "diagnosis": "ABIOTIC",
+    "crop": "TOMATO",
+    "current_treatment": "Adviced to use carbadism to spray to control fungi infection on Tomato seedlings.",
+    "prevention": NaN,
+    "recommendation_type": "Fungicide",
+    "validity": NaN
+  },
+  "FLOWER/FRUIT ABORTION": {
+    "diagnosis": "FLOWER/FRUIT ABORTION",
+    "crop": "TOMATO",
+    "current_treatment": "Spray K Optimal at 40ml/15lit of water.",
+    "prevention": NaN,
+    "recommendation_type": "Insecticide/acaricide",
+    "validity": NaN
+  },
+  "FRUIT FLIES": {
+    "diagnosis": "FRUIT FLIES",
+    "crop": "TOMATO",
+    "current_treatment": "Fruit bores - TOMATOES  Manually collect and destroy affected fruits. Spray EMAMECTIN BENZOATE eg Attack 1.9 EC at 40 ml in 15L of water.",
+    "prevention": "Fruit bores - TOMATOES Remove and destroy infected fruit and infested plants after harvest. Practice crop rotation with non Solanaceau crops. Apply Bacillus thurengiensis eg BYPEL at 20g in 15l of water after transplanting.",
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "FUNGAL DISEASE": {
+    "diagnosis": "FUNGAL DISEASE",
+    "crop": "TOMATO",
+    "current_treatment": "Mosaic virus - TOMATOES, practice regular farm sanitation eg weeding. Uproot all diseased plants from the farm and burn. Spray with Golan at 20 ml in 12 litres of water using motorised sprayer to control the white flies. Alternate with Alata soap solution and neem leaves extract plus powdered hot pepper put together at two weeks intervals. Monitor problem early to inform decision of the insects control.",
+    "prevention": "Mosaic virus - TOMATOES, practice regular farm sanitation eg weeding.Use certified seeds to prepare the nursery.  Remove all volunteers plants before you transplant seedlings. Monitor the farm regularly to inform you decision of early detection and control of the vector. Spray with neem leaves extract plus powdered hot pepper put together with Alata soap solution of 120-200ml in to 15 litres of water .",
+    "recommendation_type": "Cultural;Fungicide;Monitoring;Other",
+    "validity": "ACCEPT Effective"
+  },
+  "MILLIPEDES": {
+    "diagnosis": "MILLIPEDES",
+    "crop": "CASSAVA",
+    "current_treatment": "Garden Centipedes - CASSAVA\n- Apply Fipronil (Fipro 50 EC) at the rate of 100mls/15L. tank sprayer.",
+    "prevention": "Garden Centipedes - CASSAVA\n-\u00c3\u00bfAvoid Centipedes-infested fields when selecting sites for field establisment \n-\u00c3\u00bfPractice farm sanitation. Collect, burn, bury or compost plant debris.\n-\u00c3\u00bfAvoid mulching in sites with potential Centipedes infestation",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring",
+    "validity": "ACCEPT Partially effective"
+  },
+  "LATE BLIGHT": {
+    "diagnosis": "LATE BLIGHT",
+    "crop": "TOMATO",
+    "current_treatment": "Elimiate all susceptible crops eg.egg plant and potato.Crop resistance varieties in your next planting.Always spray with top cop or Mancozeb forth nightty soon after your establish your tomato field.Top cop Rate 50gm/16lo of water.Mancozeb Rate 50gm/15 of water.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "LEAF MINER": {
+    "diagnosis": "LEAF MINER",
+    "crop": "TOMATO",
+    "current_treatment": "For leaf miner on TOMATO, use Remon 25mls / 15 liters of water",
+    "prevention": "For leaf miner on TOMATO, practice crop rotation",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "MAIZE STREAK VIRUS": {
+    "diagnosis": "MAIZE STREAK VIRUS",
+    "crop": "MAIZE",
+    "current_treatment": "Remove all streaked/diseased plants, dry and burn or feed to livestock if applicable. Grow resistant variety in the next growing season.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Resistant Varieties",
+    "validity": "ACCEPT Effective"
+  },
+  "BIRDS": {
+    "diagnosis": "BIRDS",
+    "crop": "MAIZE",
+    "current_treatment": "mammals Attack - MAIZE Trap rudent using mouse trap\n- Remove all hiding places where rudent hide from the",
+    "prevention": "mammals Attack - MAIZE \nEarly planting \nPractice crop rotation \nUse seed dresses on the seeds before planting",
+    "recommendation_type": "Cultural;Monitoring;Other",
+    "validity": "ACCEPT Effective"
+  },
+  "MOULD": {
+    "diagnosis": "MOULD",
+    "crop": "MAIZE",
+    "current_treatment": "Mould - MAIZE       Quickly remove weevils from grains by seivinng,and dispose off immediately.",
+    "prevention": "Mould - MAIZE       Harvest maize as soon as it has reached maturity. Remove and burn infested maize residues after harvest.In barn after harvest  ,put fresh neem leaves in layers over Grains.",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "NEMATODES": {
+    "diagnosis": "NEMATODES",
+    "crop": "TOMATO",
+    "current_treatment": "For nematode control: Tomato, \n-sterilisation seed beds before planting \n-Use Manozeb to water the seedlings  immediately germination \n-Before transplanting of seedling soke seedlings in mancozeb",
+    "prevention": "For nematode control on tomato: practice crop rotation \nPractice land rotation",
+    "recommendation_type": "Resistant Varieties;Insecticide/acaricide;Monitoring",
+    "validity": NaN
+  },
+  "STINK BUG": {
+    "diagnosis": "STINK BUG",
+    "crop": "MAIZE",
+    "current_treatment": "Fall Armyworm infestation  - Maize \n1. Handpick the caterpillars, egg masses and destroy. \n2. Spray Agoo @ 50gms / 15L of water unto the funnel of the plant during the early hours of the day.\n3.  Apply fertilizer for the plant to out grow the damage. \n4. Regularly control weeds in and around the cropped field.",
+    "prevention": "Fall Armyworm infestatin  - Maize \n1. Practice Crop Rotation with non - host plants. \n2.  Plant early in order to escape high pest incidence.\n3.  Plant in strips by alternating maize rows with eg spring onions or cassava.\n4. Burn crop residue after harvest.",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring;Fertilizer;Other",
+    "validity": "ACCEPT Effective"
+  },
+  "RODENTS": {
+    "diagnosis": "RODENTS",
+    "crop": "MAIZE",
+    "current_treatment": "Treatment of seeds before planting in the future with a seed dresser and also ensure the clearing of farm boundaries",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Partially effective"
+  },
+  "CHEMICAL DAMAGE": {
+    "diagnosis": "CHEMICAL DAMAGE",
+    "crop": "MAIZE",
+    "current_treatment": "Apply Lambda at 40ml per 15 litres of water when maize is about 2 weeks old. Practise good farm hygiene.",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": NaN
+  },
+  "SMUT": {
+    "diagnosis": "SMUT",
+    "crop": "MAIZE",
+    "current_treatment": "MAIZEPromptly remove and destroy (but don?t bury) smutted tassels, ears, and infected plants before the fungus spreads, to reduce the build-up of the disease in the soil",
+    "prevention": "MAIZE Use healthy seeds\n-\u00c3\u00bfUse resistant varieties\n-\u00c3\u00bfThe fungus survives in soil for several years and infects plants during seedling stage. Use cultural practices that promote rapid seedling germination and emergence: \n\t ? Frequent irrigation for 3 weeks after planting reduces the incidence of the disease\n\t ? Balanced soil fertility. The disease is more severe under nitrogen deficiency \n-\u00c3\u00bfPractise deep ploughing\n-\u00c3\u00bfPractise crop rotation",
+    "recommendation_type": NaN,
+    "validity": "ACCEPT Effective"
+  },
+  "GRASSHOPPER": {
+    "diagnosis": "GRASSHOPPER",
+    "crop": "MAIZE",
+    "current_treatment": "Grasshoppers - Maize Spray with Lamda at 40mls per 15litres of water.Repeat after 2weeks if symptoms persist.",
+    "prevention": "Grasshoppers - Maize Spray with Karate at 20mls per 15L knapsack when crop is about 2 weeks old.Repeat after 2weeks if symptoms persist.",
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "CASSAVA BACTERIAL BLIGHT": {
+    "diagnosis": "CASSAVA BACTERIAL BLIGHT",
+    "crop": "CASSAVA",
+    "current_treatment": "CASSAVA Rogue and burn infected plants that have just appeared to prevent spread\n-\u00c3\u00bfAt the first sign of the disease immediately harvest mature roots and destroy all remaining plants and plant debris by burning",
+    "prevention": "CASSAVA The disease is transmitted through stem cuttings, use healthy planting materials obtained from plants without symptoms\n-\u00c3\u00bfPlant resistant varieties e.g. Bankyehemaa and Esam bankye.\n-\u00c3\u00bfDisinfect farming tools in bleach (5 parts of bleach to 95 parts of water)\n-\u00c3\u00bfRemove old cassava plant debris from previous plantings and burn after harvest\n-\u00c3\u00bfAvoid planting on land with history of CBB. Fallow previous fields for a period of 3-5 years if pressure on land is low or rotate cassava with legume or grains\n-\u00c3\u00bfAvoid transferring planting materials from CBB endemic areas to new cassava fields",
+    "recommendation_type": "Biological;Cultural;Resistant Varieties;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "COCOA PEST": {
+    "diagnosis": "COCOA PEST",
+    "crop": "MAIZE",
+    "current_treatment": "Apply Akate Master at 100mls to 12 litres of water.\nWear protective clothings. Do not eat, drink or smoke during spraying. Thoroughly wash body after spraying.",
+    "prevention": "Ensure proper farm sanitation. \nApply Akate Master at 100mls to 12 litres of water at 4 weekly intervals starting August to December excluding November. \nWear protective clothings. Do not eat, drink or smoke during spraying. Thoroughly wash body after spraying.",
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "SEED PROBLEM": {
+    "diagnosis": "SEED PROBLEM",
+    "crop": "MAIZE",
+    "current_treatment": "Acquire seed from registered and certified shops.",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": "REJECT not safe"
+  },
+  "BUCKEYE ROT": {
+    "diagnosis": "BUCKEYE ROT",
+    "crop": "TOMATO",
+    "current_treatment": "Plant certified disease free seeds. Practise crop rotation. Stake the tomatoes. If all fail spray any recommended fungicide like Metalaxyl M or Copper oxychloride at their recommended rates.",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": "ACCEPT Effective"
+  },
+  "BOLLWORM": {
+    "diagnosis": "BOLLWORM",
+    "crop": "TOMATO",
+    "current_treatment": "Remove and destroy affected fruits by burying 3 feet deep. \nApply Bipel at 15 grams to 15 litres of water. \nWear protective clothing. Do not eat, drink or smoke during spraying. Thoroughly wash body after spraying.",
+    "prevention": "Ensure proper farm sanitation. \nPlant 2 rows of maize plants as barrier 2 weeks before transplanting of seedlings.\nApply Bipel at 15 grams to 15 litres of water when 1% of Fruits show signs of infection. \nWear protective clothing. Do not eat, drink or smoke during spraying.",
+    "recommendation_type": "Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "LARGER GRAIN BORER": {
+    "diagnosis": "LARGER GRAIN BORER",
+    "crop": "MAIZE",
+    "current_treatment": "Remove the infested one\n Keep watch during drying\nTreat with recommended insecticide",
+    "prevention": "Harvest early\nBurn the infested residue",
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "MOSAIC VIRUS": {
+    "diagnosis": "MOSAIC VIRUS",
+    "crop": "TOMATO",
+    "current_treatment": "1.RESISTANCE VARIETIES SHOULD BE PLANTED\r\n\r\n2.REMOVE INFESTED PLANT ESPERCAILLY AT THE NURSERY STAGE\r\n\r\n3FIELD HYGEINE SHOULD BE PRACTICE",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Partially effective"
+  },
+  "MEALYBUG": {
+    "diagnosis": "MEALYBUG",
+    "crop": "CASSAVA",
+    "current_treatment": "Weed farm thoughrouly\nMix 5gm of alata soap plus 5gm powdered pepper in l Lt of waterabout 30 mins mix the mixture with 15lt of water to spr",
+    "prevention": "Avoid disease d planting materials \nFallow land with plantain and maize\nPractice early planting",
+    "recommendation_type": "Biological;Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "CERCOSPORA LEAF SPOT": {
+    "diagnosis": "CERCOSPORA LEAF SPOT",
+    "crop": "TOMATO",
+    "current_treatment": "Use topsin M at  100gm per knapsack sprayer and Repeat at 7 days",
+    "prevention": "Apply recommended Seeds\nPractice crop rotation\nThe farm should be weed free\nFungicide Treatment should be early to prevent the attack",
+    "recommendation_type": "Cultural;Fungicide",
+    "validity": "ACCEPT Effective"
+  },
+  "CASSAVA GREEN MITE": {
+    "diagnosis": "CASSAVA GREEN MITE",
+    "crop": "CASSAVA",
+    "current_treatment": "Apply Neem leaves at 1kg/3inch to knapsack onto the plant.Practice farm hygiene",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": NaN
+  },
+  "PHOSPHORUS DEFICIENCY": {
+    "diagnosis": "PHOSPHORUS DEFICIENCY",
+    "crop": "MAIZE",
+    "current_treatment": "Farmer advised to apply N.P.K 15;15:15 fertilizer in subsequent planting; Not to waste time and money on already matured plants.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "LEAFHOPPER": {
+    "diagnosis": "LEAFHOPPER",
+    "crop": "MAIZE",
+    "current_treatment": "Practice crop rotation; apply insecticides like Cymethoate at a rate of 30 50mls/15lts of water once a month.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "BACTERIAL INFECTION": {
+    "diagnosis": "BACTERIAL INFECTION",
+    "crop": "CASSAVA",
+    "current_treatment": "Selection of plant free from the disease will provide clean planting material to limit CBB spread; Farm sanitation by burning of old infested cassava stems and debris can also reduce CBB spread by rain splashes",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Partially effective"
+  },
+  "PLANTAIN WEEVIL": {
+    "diagnosis": "PLANTAIN WEEVIL",
+    "crop": "MAIZE",
+    "current_treatment": "Good farm sanitation practice, Use banana split stem to trap weevils, collect young plantain and cut into pieces, lay the pieces around the plant with the cut end downward, inspect every morning, kill and destroy the pests, continue the process every day to reduce pests population.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "FRUIT ROT": {
+    "diagnosis": "FRUIT ROT",
+    "crop": "TOMATO",
+    "current_treatment": "Farmer was advised to continue using fungicide but this time appropriately. Field visit arranged.",
+    "prevention": NaN,
+    "recommendation_type": "Fungicide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "PHYTOPHTHORA": {
+    "diagnosis": "PHYTOPHTHORA",
+    "crop": "TOMATO",
+    "current_treatment": "Use host resistant varieties, buy seeds from certified shops",
+    "prevention": NaN,
+    "recommendation_type": "Resistant Varieties",
+    "validity": "ACCEPT Effective"
+  },
+  "MOTH": {
+    "diagnosis": "MOTH",
+    "crop": "MAIZE",
+    "current_treatment": "Spray with Lamda  cyhalothrin at 40ml/ 15 litres of water.",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": "ACCEPT Partially effective"
+  },
+  "INSECTS": {
+    "diagnosis": "INSECTS",
+    "crop": "MAIZE",
+    "current_treatment": "Remove the affected plants and destroy; Application of insecticides e.g. Dursban 4E is also recommended since termite attack is suspected.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "CASSAVA BROWN STREAK DISEASE": {
+    "diagnosis": "CASSAVA BROWN STREAK DISEASE",
+    "crop": "CASSAVA",
+    "current_treatment": "Removalof affected plant from the field",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": NaN
+  },
+  "SEPTORIA LEAF SPOT": {
+    "diagnosis": "SEPTORIA LEAF SPOT",
+    "crop": "TOMATO",
+    "current_treatment": "Burn all tomato remains after harvesting. Practice of crop rotation with cereal and legumes",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "RUST": {
+    "diagnosis": "RUST",
+    "crop": "MAIZE",
+    "current_treatment": "Termites - YAMS \nApply Deltamethrin based product (e.g. Deltacan at 175-100mls/L. Restrictions:\u00c3\u00bfMaximum 2 applications per season in the morning and later in the day. PHI 14 days. REI 24 hours. Eye and skin irritant. Highly toxic to bees and other non target arthropods.Toxic to aquatic organisms. Avoid using near water ways",
+    "prevention": "Termites - YAMS \nAvoid termite-infested fields when selecting sites for field establisment \n-\u00c3\u00bfDestroy termite hill in and around production site before planting\n-\u00c3\u00bfKeep soil moist during the dry season distrupt termite activities\n-\u00c3\u00bfPractice farm sanitation. Collect, burn, bury or compost plant debris.",
+    "recommendation_type": "Cultural",
+    "validity": NaN
+  },
+  "NITROGEN DEFICIENCY": {
+    "diagnosis": "NITROGEN DEFICIENCY",
+    "crop": "MAIZE",
+    "current_treatment": "Fall armyworm - MAIZE Fall armyworm - MAIZE\n Look for patches of small shot holes \"window pane\" to large ragged and elongated holes in the leaves emerging from the whorl\n-&nbsp",
+    "prevention": "Fall armyworm - MAIZEAvoid late planting. Plant early to avoid peak immigration of adults\n-&nbsp",
+    "recommendation_type": "Fertilizer",
+    "validity": NaN
+  },
+  "SCLEROTIUM WILT": {
+    "diagnosis": "SCLEROTIUM WILT",
+    "crop": "TOMATO",
+    "current_treatment": "APPLY FUNGICIDE; ROGUE AND BURN INFECTED PLANTS.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Fungicide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "LEAF BLIGHT": {
+    "diagnosis": "LEAF BLIGHT",
+    "crop": "MAIZE",
+    "current_treatment": "MAIZE\n-\u00c3\u00bfUse resistant and tolerant varieties \n-\u00c3\u00bfPractise deep ploughing of crop residues before planting \n-\u00c3\u00bfPractise crop rotation\n-\u00c3\u00bfRemove and destroy the alternative host",
+    "prevention": "MAIZE \nPractice crop rotation",
+    "recommendation_type": "Cultural;Fungicide;Resistant Varieties",
+    "validity": "ACCEPT Effective"
+  },
+  "BROWN SPOT": {
+    "diagnosis": "BROWN SPOT",
+    "crop": "CASSAVA",
+    "current_treatment": "Brown leaf spot - CASSAVA",
+    "prevention": "Brown leaf spot - CASSAVA",
+    "recommendation_type": "Cultural;Fungicide",
+    "validity": "REJECT no recommendation"
+  },
+  "TOMATO LEAF SPOT": {
+    "diagnosis": "TOMATO LEAF SPOT",
+    "crop": "TOMATO",
+    "current_treatment": "TOMATOES \nMonitor field early for symptoms \nTransplant only healthy seedlings to new fields and site nurseries away from tomato fields to reduce seedling infections\nControl weeds on the fields,\nMulch field with dry grass to prevent pupation of vectors\nSpray alpha-cypermethrin at 7.5ml/15L of water to control the vector population.",
+    "prevention": "TOMATOES\n Transplant only healthy seedlings to new fields",
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "CRICKETS": {
+    "diagnosis": "CRICKETS",
+    "crop": "MAIZE",
+    "current_treatment": "MAIZE \nAvoid late planting,plough land before planting,monitor rainfall pattern before sowing and dress seeds with insecticide before sowing\nAllow natural enemies to feed on the insects.",
+    "prevention": "MAIZE",
+    "recommendation_type": "Biological;Cultural;Insecticide/acaricide",
+    "validity": "ACCEPT Effective"
+  },
+  "TOMATO LEAF CURL VIRUS": {
+    "diagnosis": "TOMATO LEAF CURL VIRUS",
+    "crop": "TOMATO",
+    "current_treatment": "TOMATOES\nRemove tomato residues and volunteer crops and bury or burn,\nTransplant shortly after or during the rainy season,\nConserve natural enemies,\nKeep the field weed-free throughout the cropping season,\nSpray liquid soap at rate 45 table spoons per 15lit of water to control vectors",
+    "prevention": "TOMATOES\nRemove tomato residues and volunteer crops and bury or burn,\nTransplant shortly after or during the rainy season,\nConserve natural enemies,\nKeep the field weed-free throughout the cropping season,",
+    "recommendation_type": "Cultural;Resistant Varieties;Insecticide/acaricide;Monitoring",
+    "validity": "REJECT Not effective"
+  },
+  "GROWTH CRACKING": {
+    "diagnosis": "GROWTH CRACKING",
+    "crop": "MAIZE",
+    "current_treatment": "TOMATOES -Heavy rainfall or irrigation following a long, dry period promotes rapid growth during ripening, therefore reduce water supply to the plant. \nFruit exposed to direct sun are most susceptible therefore a simple shade can be provided.",
+    "prevention": "TOMATOES - Use plant crack-resistant varieties such as Jetstar.\nMulch and water the plants during dry season. \nFruit cracking is most common on the large-fruited varieties such as Beefsteak.",
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": NaN
+  },
+  "MILDEW": {
+    "diagnosis": "MILDEW",
+    "crop": "TOMATO",
+    "current_treatment": "ENSURE FIELD SANITATION TO PREVENT THE SPREAD OF THE DISEASES\r\nSPRAY WITH 20g OF SULPHUR 80W TO 15L OF WATER AT 7 10 DAYS INTERVALS",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "CUTWORM": {
+    "diagnosis": "CUTWORM",
+    "crop": "TOMATO",
+    "current_treatment": "  PLOUGH AND HARROWING OF THE SOIL EXPOSE THE INSECTS TO THEIR PREDATORS\r\n SPRAY 10MLS OF EMAMECTIN WITH 15L OF WATER AT 7 10DAYS INTERVELS, PREFERABLY IN THE EVENING",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "FRUIT WORM": {
+    "diagnosis": "FRUIT WORM",
+    "crop": "MAIZE",
+    "current_treatment": "Fruit worm - Tomatoes\n~Hand pick and destroy caterpilars which are usually found underside leaves at initial (lower) infestations\n~Add 1 sachet of Porselen (Emamectin benzoate product)to 15litres of water and spray at 10~14days interval",
+    "prevention": "Fruit worm - Tomatoes\n~Dispose off crop residues: uproot and burn tomato stalks after harvest\n-\u00c3\u00bfCrop rotate or intercrop with non-host crops (e.g onion, carrot) to reduce field.",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "FRUIT BORER": {
+    "diagnosis": "FRUIT BORER",
+    "crop": "TOMATO",
+    "current_treatment": "Fruit borer TOMATOES\n-Spray one of the following chemicals 2-3 times with intervals of 10-15 days: 1 Sachet of Porselen or 30mls of Eforia insectides to 15L of water.",
+    "prevention": "Fruit borer TOMATOES\n-Deep plough the field after harvesting to expose the pupae to the sun and to birds that will feed on them\n-Predatory ants, spiders, parasitic wasps and parasitic flies are all natural enemies of the fruit borer. Do not kill them if you see them!\n-Manually collect and destroy affected fruits\n-When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, and pre-harvest interval.",
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "BLACK POD DISEASE": {
+    "diagnosis": "BLACK POD DISEASE",
+    "crop": "MAIZE",
+    "current_treatment": "Black pod - COCOA \nRemove chupons and reduce heavy canopy to admit light.\n Remove diseased pods from the farm to an open space and either burn or bury them.\nSpray with 1 sachet of redomil to 15litres of water using a motorised sprayer",
+    "prevention": "Black pod -COCOA \n Reduction of shade trees.\n Mummified pods should be removed and destroyed to reduce spread\n Draining standing waters.\n Regular harvesting.\n Remove chupons and reduce heavy canopy to admit light.\n Remove diseased pods from the farm to an open space and either burn or bury them.",
+    "recommendation_type": "Cultural;Fungicide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "SEED ROT": {
+    "diagnosis": "SEED ROT",
+    "crop": "MAIZE",
+    "current_treatment": "  Purchase seeds from recommended source for your subsequent farming. \r\n  Conduct germination test before planting",
+    "prevention": NaN,
+    "recommendation_type": "Monitoring",
+    "validity": NaN
+  },
+  "COWPEA WEEVIL": {
+    "diagnosis": "COWPEA WEEVIL",
+    "crop": "MAIZE",
+    "current_treatment": "Cowpea Weevils - MAIZE \nThresh cowpea  and store seeds in PICS bags",
+    "prevention": "Cowpea Weevils - MAIZE \nHarvest matured  pods early to avoid infes",
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Partially effective"
+  },
+  "DEFORMATION": {
+    "diagnosis": "DEFORMATION",
+    "crop": "MAIZE",
+    "current_treatment": "On MAIZE, 1. Uproot affected plants and feed to livestock",
+    "prevention": "On MAIZE,",
+    "recommendation_type": "Cultural",
+    "validity": NaN
+  },
+  "EGGPLANT FRUIT AND SHOOT BORER": {
+    "diagnosis": "EGGPLANT FRUIT AND SHOOT BORER",
+    "crop": "TOMATO",
+    "current_treatment": "practice good farm hygine apply redomil to the crops ",
+    "prevention": NaN,
+    "recommendation_type": "Insecticide/acaricide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "BEETLE": {
+    "diagnosis": "BEETLE",
+    "crop": "MAIZE",
+    "current_treatment": "Fall Army worms - maize ,Spray  with Lambda Cyhalothrin plus By pelvic at the recommended rate to control the insects. Repeat after two weeks and monitor their control after spraying.",
+    "prevention": "Fall Army worms - maize , Do not cultivate on infested area. Monitor the farm early after germination to inform decision of early control of the insects.",
+    "recommendation_type": "Cultural;Insecticide/acaricide;Monitoring",
+    "validity": NaN
+  },
+  "TOMATO SPOTTED WILT VIRUS": {
+    "diagnosis": "TOMATO SPOTTED WILT VIRUS",
+    "crop": "TOMATO",
+    "current_treatment": "Spoted wilt virus - TOMATOES Spray field with imidacloprid at 5-7ml/15L of water to control thrip and other insect vectors, if vector populations persist. A systemic neonicotinoid insecticide,",
+    "prevention": "Spoted wilt virus - TOMATOES Transplant only healthy seedlings to new fields and site nurseries away from tomato fields to reduce seedling infections\n-\u00c3\u00bfThrips are the main vector in the transmission of TSWV, in nurseries plants can be covered with with a fine mesh (sizes smaller than 0.5mm) to prevent access to the thrips.",
+    "recommendation_type": "Cultural;Resistant Varieties",
+    "validity": "ACCEPT Effective"
+  },
+  "ANGULAR LEAF SPOT": {
+    "diagnosis": "ANGULAR LEAF SPOT",
+    "crop": "CASSAVA",
+    "current_treatment": "  Maintain proper farm sanitation such as regular weeding. \r\n  Remove affected fruits and destroy them outside farm. \r\n  Apply effective fungicide such as Top Cop at 60ml per knapsack. \r\n  Spray every 2 weeks interval for 7 months from emergence of new leaves to beginning of flowering.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Fungicide;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "ROOT ROT": {
+    "diagnosis": "ROOT ROT",
+    "crop": "CASSAVA",
+    "current_treatment": "Fungal root Rot - CASSAVA early harvesting of crops.",
+    "prevention": "Fungal root Rot - CASSAVA Avoid water logged areas and plant disease free and tolerrant varieties. Also ensure GAPS in Cassava production.",
+    "recommendation_type": "Cultural;Resistant Varieties",
+    "validity": "ACCEPT Partially effective"
+  },
+  "NECROSIS": {
+    "diagnosis": "NECROSIS",
+    "crop": "CASSAVA",
+    "current_treatment": "Use diseases free planting material.\r\nPlant resistant varieties like Ampon,Oburoni,etc.\r\nMaintain farm sanitation.\r\nAvoiding transporting diseases  or affected planting material from one field to another.\r\nPractice crop rotation.\r\n",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": "ACCEPT Effective"
+  },
+  "RICE BLAST": {
+    "diagnosis": "RICE BLAST",
+    "crop": "TOMATO",
+    "current_treatment": "Blight disease - TOMATOES removal of affected plants with sharp cutter. Avoid excessive Watering and dumpy condition which are favourable to spread of fungal",
+    "prevention": "Blight disease - TOMATOES mulch fields or plants with dry weeds to reduce contact with dumpy soil .Crop rotation",
+    "recommendation_type": "Cultural;Fungicide;Other",
+    "validity": "ACCEPT Effective"
+  },
+  "ROT": {
+    "diagnosis": "ROT",
+    "crop": "CASSAVA",
+    "current_treatment": "1.CHANGE PLANTING MATERIAL,AFTER THREE(3)CULTIVATION\r\n2.ROTATE PLANT WITH LEGUMINEOUS AND CEREAL CROPS.\r\n3.TRY OTHER IMPROVEED VARIETIES SUCH AS AMPOM,SIKA BANKYE .....",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": NaN
+  },
+  "MANAGEMENT ISSUE": {
+    "diagnosis": "MANAGEMENT ISSUE",
+    "crop": "MAIZE",
+    "current_treatment": "1. Good land preparation 2. Hoeing 3. Use Nicogan 2 weeks after sowing at 80 mls   120 mls to 15 litres of water under moist soil condition.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Herbicide",
+    "validity": "ACCEPT Effective"
+  },
+  "POOR SPACING": {
+    "diagnosis": "POOR SPACING",
+    "crop": "CASSAVA",
+    "current_treatment": "1. Plant at 1 meter by 1 meter (recommended planting distance) in the next season\r\n2. Plant improved varieties such as Bankyehemaa etc. for better yield",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "COLLAR ROT": {
+    "diagnosis": "COLLAR ROT",
+    "crop": "TOMATO",
+    "current_treatment": "Collar rot - TOMATO \n1. Create channels to drain excess water from the farm\n2. Drench root zone of plants with mankocide ( mancozeb + copper  ) 30g per 15 litres water at 2 weeks interval for 2 times.",
+    "prevention": "Collar rot - TOMATO \n1. Avoid planting tomato  in waterlogged areas.\n2. Rotate crops to non host crops such  as maize for 2-3 years.",
+    "recommendation_type": "Cultural;Fungicide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "CALCIUM DEFICIENCY": {
+    "diagnosis": "CALCIUM DEFICIENCY",
+    "crop": "TOMATO",
+    "current_treatment": "PRACTICE TIMELY WEEDING TO AVOID WEEDS COMPETING WITH THE CROP WITH NUTRIENT AND APPLY ANY FERTILIZER THAT CONTAIN CALCIUM EG. SINGLE SUPER PHOSPHATE",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "WEEDS": {
+    "diagnosis": "WEEDS",
+    "crop": "MAIZE",
+    "current_treatment": "1.(a)  WEED REGULARLY AT LEAST TWICE A SEASON     (b) WEED TWO WEEKS AFTER CROP SPROUTS, BEFORE THE STRIGA REACHES THE ROOT OF THE CROP     (c) WEED AGAIN SIX TO EIGHT WEEKS BEFORE SPROUTING 2. PLANT RESISTANT VARIETIES OF COWPEA,GROUNDNUT AND SORGHUM TO CONTROL THE WEED. 3. APPLY NITROGEN FERTILIZER TO INCREASE TH NUTRIENT IN THE SOIL",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "REJECT Not effective"
+  },
+  "UNKNOWN": {
+    "diagnosis": "UNKNOWN",
+    "crop": "MAIZE",
+    "current_treatment": "Practice crop rotation, acquire Seeds at the approved seed sales points.",
+    "prevention": NaN,
+    "recommendation_type": NaN,
+    "validity": NaN
+  },
+  "BUSHFIRE": {
+    "diagnosis": "BUSHFIRE",
+    "crop": "CASSAVA",
+    "current_treatment": "The farm should be cleared of weeds before the drought period commence\r\nFire  belt should be constructed around the farm to prevent fire from entering the farm",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "TERMITE": {
+    "diagnosis": "TERMITE",
+    "crop": "MAIZE",
+    "current_treatment": "Harvest early and gather the stalks and burn after harvesting.",
+    "prevention": "Look for  ant -Hill around the farm and destroy it.",
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "MICRONUTRIENT DEFICIENCY": {
+    "diagnosis": "MICRONUTRIENT DEFICIENCY",
+    "crop": "TOMATO",
+    "current_treatment": "1. Spray a solution of 70g of poly feed and 15l of water on the whole plant,should be applied in the late afternoon when temperature is low in the green house.\r\nRepeat after 10 days.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "THRIPS": {
+    "diagnosis": "THRIPS",
+    "crop": "TOMATO",
+    "current_treatment": "Apply Acetastar at a rate of 40mls/ knapsack.",
+    "prevention": NaN,
+    "recommendation_type": "Insecticide/acaricide",
+    "validity": "ACCEPT Partially effective"
+  },
+  "TOMATO MOSAIC VIRUS": {
+    "diagnosis": "TOMATO MOSAIC VIRUS",
+    "crop": "TOMATO",
+    "current_treatment": "ROGUE AND BURN AFFECTED INDIVIDUAL PLANT.",
+    "prevention": NaN,
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  },
+  "VERTICILLIUM WILT": {
+    "diagnosis": "VERTICILLIUM WILT",
+    "crop": "TOMATO",
+    "current_treatment": "Verticilum wilt - TOMATOES \nRemove and burn the diseased plants.",
+    "prevention": "Verticillium wilt - \nAvoid planting in fields with a history of disease attack.\nUse certified seeds and discard affected seedlings.",
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": "ACCEPT Effective"
+  },
+  "WILT": {
+    "diagnosis": "WILT",
+    "crop": "TOMATO",
+    "current_treatment": "Rotate your crops any time you observe wilt in your farm, by planting cassava, maize and plantain instead of repeatedly planting Tomato. Pull all tomato plants that wiltand  burn or burry. Practice land fallowing for a longer period, do not plant tomato on the same land until the fallow period elapses. ",
+    "prevention": NaN,
+    "recommendation_type": "Cultural;Monitoring",
+    "validity": NaN
+  },
+  "WITCHES BROOM": {
+    "diagnosis": "WITCHES BROOM",
+    "crop": "CASSAVA",
+    "current_treatment": "CASSAVA uproot and burn the crop materials from the field.",
+    "prevention": "- CASSAVA change variety by planting improved variety eg bankyihimma, ampong, esambankyi.",
+    "recommendation_type": "Cultural",
+    "validity": "ACCEPT Effective"
+  }
+}
