@@ -1,7 +1,8 @@
-setfit @ git+https://github.com/huggingface/setfit
+setfit==0.7.0
 sentence-transformers==2.2.2
 transformers==4.30.0
-torch==2.0.1
+torch==2.9.0
 numpy<2.0.0
 scikit-learn
 streamlit
+huggingface_hub>=0.33.5
